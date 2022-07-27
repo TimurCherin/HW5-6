@@ -1,4 +1,4 @@
-a[https] {
+a[href^=https] {
     color:red;
  } 
  
